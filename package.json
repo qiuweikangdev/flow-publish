@@ -1,0 +1,30 @@
+{
+  "name": "flow-publish",
+  "version": "1.0.0",
+  "description": "git flow版本发布工具",
+  "type": "module",
+  "main": "lib/index.js",
+  "bin": {
+    "flow-publish": "bin/index.js",
+    "publish": "bin/index.js",
+    "fp": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "git-flow",
+    "publish"
+  ],
+  "author": "qiuweikangdev",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "zx": "^7.2.3"
+  },
+  "bugs": {
+    "url": "https://github.com/qiuweikangdev/flow-publish/issues"
+  },
+  "homepage": "https://github.com/qiuweikangdev/flow-publish#readme"
+}
