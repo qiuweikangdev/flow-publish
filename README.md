@@ -12,15 +12,13 @@ git flow版本发布工具
 
   
 
-  ```bash
-  npm i -g flow-publish
-  ```
+## 安装
 
-  
+```bash
+npm i -g flow-publish
+```
 
-  
-
-  
+## 使用
 
 
 
