@@ -20,7 +20,7 @@ npm i -g flow-publish
 
 ## 使用
 
-
+![](https://raw.githubusercontent.com/qiuweikangdev/flow-publish/main/images/flow-publish.gif)
 
 
 
